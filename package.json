@@ -1,0 +1,8 @@
+{
+  "name": "arcade-hub",
+  "version": "1.0.0",
+  "description": "Arcade Hub: 20+ mini games with shared leaderboards (front end + Node back end)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
